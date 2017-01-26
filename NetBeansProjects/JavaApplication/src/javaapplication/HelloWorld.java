@@ -15,7 +15,7 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int i = 4*3;  
+        int i = 20;  
         System.out.println(i);
         System.out.println("Hello, Honey");
     }
